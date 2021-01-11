@@ -1,2 +1,2 @@
 # nextjs-skeleton
-Boiler Plate for Next Js with Typescript
+Boilerplate code/eslint for Next js projects with Typescript.
