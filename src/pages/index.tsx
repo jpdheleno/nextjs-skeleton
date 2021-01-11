@@ -1,8 +1,8 @@
-import React from 'react'
-import Head from 'next/head'
-import * as s from '../styles/pages/Home'
+import React from 'react';
+import Head from 'next/head';
+import * as s from '../styles/pages/Home';
 // inline
-import NextLogo from '../assets/next.svg'
+import NextLogo from '../assets/next.svg';
 
 const Home: React.FC = () => {
   return (
@@ -15,7 +15,7 @@ const Home: React.FC = () => {
       <h1>ReactJS Structure</h1>
       <p>A ReactJS + Next.js structure</p>
     </s.Container>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
